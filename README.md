@@ -1,1 +1,5 @@
-Analysis of a brazilian based logistics company with data pulled from UC Irvine's Machine Learning Repository. The code focuses on analyzing Range, Average and Variance on the input features (X) and target values (y). 
+Acknowledgement
+
+Much of the code and comments was taken directly from Aurélien Géron, specifically from his work in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
+
+Objective here was to become acquainted with the process of creating and training a ML model, as well as with the process of fine tuning and preparing it for launch.  
