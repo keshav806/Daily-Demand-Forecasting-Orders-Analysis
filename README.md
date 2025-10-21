@@ -1,0 +1,1 @@
+Analysis of a brazilian based logistics company with data pulled from UC Irvine's Machine Learning Repository. The code focuses on analyzing Range, Average and Variance on the input features (X) and target values (y). 
